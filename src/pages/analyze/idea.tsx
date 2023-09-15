@@ -10,10 +10,11 @@ export default function Idea() {
     <div className="flex w-[100%] bg-white flex-col pt-[5rem] items-center">
         <div className="flex flex-col ">
       <h1 className="text-2xl text-black font-semibold">สถิติข้อเสนอ</h1>
-      <div className="flex flex-row gap-4 pt-[1rem]">
+      <div className="flex flex-col sm:flex-row md:flex-row gap-4 pt-[1rem]">
       <PieChartAnalyze/>
       <RadarAnalyze/>
       </div>
+     
     </div>
     </div>
     </div>
