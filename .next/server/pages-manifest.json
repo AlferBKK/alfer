@@ -2,8 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/admin/admin_dashboard": "pages/admin/admin_dashboard.js",
   "/home": "pages/home.js",
-  "/analyze/idea": "pages/analyze/idea.js",
-  "/offer/page": "pages/offer/page.js"
+  "/analyze/idea": "pages/analyze/idea.js"
 }
