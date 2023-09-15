@@ -23,7 +23,7 @@ export function Sidebar() {
   const [open, setOpen] = useState(true);
   return (
     <div
-      className={`bg-green-700 h-screen p-5 pt-8 ${
+      className={`bg-[#3bb561] h-screen p-5 pt-8 ${
         open ? "w-72" : "w-20"
       } duration-300 relative`}
     >
