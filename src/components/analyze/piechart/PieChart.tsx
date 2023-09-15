@@ -11,7 +11,7 @@ const data01 = [
 
 export default function PieChartAnalyze() {
     return (
-      <div className="w-full max-w-md max-h-md rounded-xl border-gray-900 border-[0.1rem] p-4 ">
+      <div className="w-[30rem] max-w-md max-h-md rounded-xl border-gray-900 border-[0.1rem] p-4 ">
       <div className="bg-white">
           <div className="mx-auto max-w-7xl py-4 sm:px-6 lg:px-2">
             <h1 className="text-xl font-bold tracking-tight text-gray-900">
