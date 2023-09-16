@@ -22,16 +22,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/analyze/idea": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/analyze/idea.js"
-    ],
-    "/offer/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/offer/page.js"
-    ],
     "/profile/profile": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
