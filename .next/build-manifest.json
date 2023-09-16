@@ -27,6 +27,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/home.js"
     ],
+    "/offer/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/offer/page.js"
+    ],
     "/profile/profile": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

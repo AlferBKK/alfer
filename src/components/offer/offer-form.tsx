@@ -4,9 +4,9 @@ import { OfferType } from "./offer-type/offer-type";
 import OfferDialog from "./offer-dialog/offer-dialog";
 export default function offerForm() {
   return (
-    <div className="w-full pt-[1rem]">
+    <div className="pt-[1rem]">
       <div className="flex flex-col ">
-        <div className="flex justify-start items-start">
+        <div className="flex justify-center items-center">
           <div className="w-full max-w-md h-full max-h-md rounded-2xl bg-white border-gray-900 border-[0.1rem] p-4 ">
             <div className="sm:w-[20rem] lg:w-[30rem] md:inline-block lg:w-full pt-[0.5rem]">
               <h1 className="text-m font-bold">รายละเอียดข้อเสนอ</h1>

@@ -8,7 +8,7 @@ export default function Offer() {
     <main>
     <div className="flex flex-row">
     <Sidebar/>
-    <div className="flex w-[100%] bg-white justify-center pt-[4rem]">
+    <div className="flex w-full bg-white pt-[4rem]">
         <div className="flex flex-col w-full items-center">
       <h1 className=" sm:text-m md:text-xl lg:text-2xl text-black font-semibold">ร่วมส่งข้อเสนอ</h1>
       <div className="flex flex-row gap-4">
