@@ -18,7 +18,12 @@ const Menus = [
         id: 3,
         title: "Ideas Analyze",
         href: "/analyze/idea"
-    }
+    },
+    {
+      id: 4,
+      title: "Profile",
+      href: "/profile/profile"
+  }
   ]
 export function Sidebar() {
   const [open, setOpen] = useState(true);

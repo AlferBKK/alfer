@@ -22,15 +22,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/admin/admin_dashboard": [
+    "/analyze/idea": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/admin/admin_dashboard.js"
+      "static/chunks/pages/analyze/idea.js"
     ],
-    "/home": [
+    "/offer/page": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/home.js"
+      "static/chunks/pages/offer/page.js"
+    ],
+    "/profile/profile": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/profile/profile.js"
     ]
   },
   "ampFirstPages": []

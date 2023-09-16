@@ -1,6 +1,7 @@
-import PieChartAnalyze from "@/components/analyze/piechart/PieChart";
-import RadarAnalyze from "@/components/analyze/radarchart/Radarchart";
-import {Sidebar} from "@/components/sidebar/sidebar";
+import PieChartAnalyze from "../../components/analyze/piechart/PieChart";
+import RadarAnalyze from "../../components/analyze/radarchart/Radarchart";
+import {Sidebar} from "../../components/sidebar/sidebar";
+import React from "react";
 import { Label, Pie, PieChart, ResponsiveContainer } from "recharts";
 export default function Idea() {
   return (

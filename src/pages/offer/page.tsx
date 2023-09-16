@@ -1,6 +1,6 @@
-import {Sidebar} from "@/components/sidebar/sidebar";
-import OfferForm from "@/components/card/offer-form"
-import { OfferType } from "@/components/card/offer-type/offer-type";
+import {Sidebar} from "../../components/sidebar/sidebar";
+import OfferForm from "../../components/offer/offer-form"
+import React from "react";
 export default function Offer() {
   return (
     <main>
