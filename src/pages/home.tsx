@@ -22,7 +22,7 @@ export default function Home() {
               }}
               style={{ width: 600, height: 400 }}
               mapStyle="mapbox://styles/mapbox/streets-v9"
-              mapboxAccessToken="pk.eyJ1Ijoid2l0MDMiLCJhIjoiY2xtbTNwaXloMGZ5bTJqdGNsc2Q4OW15NCJ9.Ugu_Thdk8_F4oDlOPs6_7Q"
+              mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_TOKEN}
             />;
 
           </div>
