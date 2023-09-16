@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/analyze/idea": "pages/analyze/idea.js",
   "/home": "pages/home.js",
-  "/admin/admin_dashboard": "pages/admin/admin_dashboard.js"
+  "/offer/page": "pages/offer/page.js"
 }
