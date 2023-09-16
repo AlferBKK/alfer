@@ -3,12 +3,12 @@ import Image from 'next/image'
 export default function OfferHistory() {
   return (
     <div className="rounded-l border-[0.1rem] border-gray-900">
-    <div className="flex font-sans ">
+    <div className="flex">
         <div className="">
             <div className="bg-white shadow-md">
                 <table className=" table-auto">
                     <thead>
-                        <tr className="bg-gray-200 text-gray-600 uppercase text-sm leading-normal">
+                        <tr className="bg-gray-200 text-gray-600 text-sm leading-normal">
                             <th className="py-3 px-6 text-left">ชื่อข้อเสนอ</th>
                             <th className="py-3 px-6 text-left">วันที่</th>
                             <th className="py-3 px-6 text-center">สถานะ</th>
