@@ -22,10 +22,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/analyze/idea": [
+    "/admin/admin_dashboard": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/analyze/idea.js"
+      "static/chunks/pages/admin/admin_dashboard.js"
     ],
     "/home": [
       "static/chunks/webpack.js",

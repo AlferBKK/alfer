@@ -3,5 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/home": "pages/home.js",
-  "/analyze/idea": "pages/analyze/idea.js"
+  "/admin/admin_dashboard": "pages/admin/admin_dashboard.js"
 }
