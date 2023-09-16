@@ -2,13 +2,13 @@ import React from "react";
 import Image from 'next/image'
 export default function OfferHistory() {
   return (
-    <div className="overflow-x-auto  rounded-l border-[0.1rem] border-gray-900">
-    <div className="flex font-sans ">
-        <div className="w-[10rem] ">
+    <div className="rounded-l border-[0.1rem] border-gray-900">
+    <div className="flex">
+        <div className="">
             <div className="bg-white shadow-md">
-                <table className="min-w-max w-full table-auto">
+                <table className=" table-auto">
                     <thead>
-                        <tr className="bg-gray-200 text-gray-600 uppercase text-sm leading-normal">
+                        <tr className="bg-gray-200 text-gray-600 text-sm leading-normal">
                             <th className="py-3 px-6 text-left">ชื่อข้อเสนอ</th>
                             <th className="py-3 px-6 text-left">วันที่</th>
                             <th className="py-3 px-6 text-center">สถานะ</th>
@@ -18,7 +18,7 @@ export default function OfferHistory() {
                         <tr className="border-b border-gray-200 hover:bg-gray-100">
                             <td className="py-3 px-6 text-left whitespace-nowrap">
                                 <div className="flex items-center">
-                                    <div className="mr-2">
+                                    <div className="mr-1">
                                     
                                     </div>
                                     <span className="font-medium">สร้างสวนสาธารณะ</span>
