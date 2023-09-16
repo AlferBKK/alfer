@@ -2,7 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/home": "pages/home.js",
   "/offer/page": "pages/offer/page.js",
-  "/analyze/idea": "pages/analyze/idea.js",
-  "/profile/profile": "pages/profile/profile.js"
+  "/profile/profile": "pages/profile/profile.js",
+  "/analyze/idea": "pages/analyze/idea.js"
 }

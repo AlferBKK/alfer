@@ -1,4 +1,5 @@
 import { Dialog, Transition } from '@headlessui/react'
+import React from 'react'
 import { Fragment, useState } from 'react'
 
 function OfferDialog() {
