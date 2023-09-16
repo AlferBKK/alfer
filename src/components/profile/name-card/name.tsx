@@ -5,7 +5,7 @@ export default function NameCard() {
     <div className="w-full pt-[1rem]">
       <div className="flex flex-col ">
         <div className="flex justify-start items-start">
-          <div className="sm:w-[5rem] md:w-[25rem] lg:w-[30rem]  h-full max-h-md rounded-2xl bg-white drop-shadow-lg border-gray-900 border-[0.1rem] p-4 ">
+          <div className="w-full max-w-md h-full max-h-md rounded-2xl bg-white drop-shadow-lg border-gray-900 border-[0.1rem] p-4 ">
           <div className="md:inline-block lg:w-full pt-[0.5rem]">
           <div className="flex flex-row gap-4 ">
                 <Image

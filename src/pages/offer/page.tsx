@@ -1,8 +1,8 @@
 import {Sidebar} from "../../components/sidebar/sidebar";
 import OfferForm from "../../components/offer/offer-form"
-import NameCard from "../../components/profile/name-card/name";
 import React from "react";
 import OfferHistory from "../../components/profile/offer-history/history";
+import NameCard from "../../components/profile/name-card/name";
 export default function Offer() {
   return (
     <main>

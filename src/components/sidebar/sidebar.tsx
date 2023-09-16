@@ -59,7 +59,7 @@ export function Sidebar() {
             Menus.map((menu)=>(
                 <>
                     <a key={menu.id} href={menu.href} className="text-white text-sm flex
-                    items-center gap-x-8 cursor-pointer  hover:bg-gray-800 rounded-md mt-6 p-2">
+                    items-center gap-x-8 cursor-pointer pt-8hover:bg-white rounded-md mt-2">
                         <span className="text-2xl block float-left">
                             <RiDashboardFill />
                         </span>
