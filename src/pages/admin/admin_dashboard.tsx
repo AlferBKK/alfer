@@ -1,4 +1,4 @@
-import { AdminSidebar } from "@/components/sidebar/adminsidebar";
+import { AdminSidebar } from "../../components/sidebar/adminsidebar";
 import React from "react";
 export default function Home() {
   return (
